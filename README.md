@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Netflix Clone APP
+
+### Netflix clone build using ReactJS with TMDB database
+
+![Image of Netflix-clone](img/netflix-clone.jpg)
 
 ## Available Scripts
 
