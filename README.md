@@ -2,6 +2,8 @@
 
 ### Netflix clone build using ReactJS with TMDB database
 
+### LIVE DEMO: https://netflix-clone-b21fc.web.app/
+
 ![Image of Netflix-clone](img/netflix-clone.jpg)
 
 ## Available Scripts
